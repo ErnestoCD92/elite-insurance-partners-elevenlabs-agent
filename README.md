@@ -21,7 +21,7 @@ Before you begin, make sure you have:
 
 - [ ] **ElevenLabs Account** (with Conversational AI access)
 - [ ] **Twilio Account** (for phone number integration)
-- [ ] **Knowledge Base Documents** (4 markdown files provided):
+- [ ] **Knowledge Base Documents** (4 markdown files provided, convert to .txt to upload to ElevenLabs):
   - `01_Elite_Auto_Insurance_Products.md`
   - `02_Elite_Sales_Scripts_Objections.md`
   - `03_Elite_Customer_Retention.md`
